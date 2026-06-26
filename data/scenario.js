@@ -1,5 +1,5 @@
 window.SCENARIO = {
-  "appName": "CIC Academy",
+  "appName": "Clinical Implementation Consulting Academy",
   "defaultCancerCenter": "CIC Cancer Center",
   "scenarioTypes": [
     {
